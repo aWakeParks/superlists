@@ -1,0 +1,1283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request	param"
+			],
+			[
+				"asser",
+				"assertIn	function"
+			],
+			[
+				"home",
+				"home_page	function"
+			],
+			[
+				"ass",
+				"assertIn	function"
+			],
+			[
+				"ex",
+				"expected_html	statement"
+			],
+			[
+				"find",
+				"find_elements_by_id	function"
+			],
+			[
+				"fin",
+				"find_element_by_id	function"
+			],
+			[
+				"sele",
+				"selenium	module"
+			],
+			[
+				"input",
+				"inputbox	statement"
+			],
+			[
+				"Http",
+				"HttpResponse	class"
+			],
+			[
+				"Ht",
+				"HttpRequest	class"
+			],
+			[
+				"r",
+				"request	statement"
+			],
+			[
+				"im",
+				"implicitly_wait	function"
+			],
+			[
+				"sel",
+				"selenium	module"
+			],
+			[
+				"Sign",
+				"SignupView"
+			],
+			[
+				"Text",
+				"TextInput	class"
+			],
+			[
+				"pas",
+				"password2	statement"
+			],
+			[
+				"em",
+				"email_required	statement"
+			],
+			[
+				"email",
+				"email_required"
+			],
+			[
+				"app",
+				"app_settings	module"
+			],
+			[
+				"Sig",
+				"SignupView	class"
+			],
+			[
+				"acc",
+				"account_views	module"
+			],
+			[
+				"Si",
+				"SignupForm	class"
+			],
+			[
+				"render",
+				"render_to_response	function"
+			],
+			[
+				"pro",
+				"profiles	module"
+			],
+			[
+				"d",
+				"db	module"
+			],
+			[
+				"singup",
+				"signupcompletion"
+			],
+			[
+				"sco",
+				"socialaccount"
+			],
+			[
+				"signupco",
+				"signupcompletion"
+			],
+			[
+				"signupc",
+				"signupcompletion"
+			],
+			[
+				"Logi",
+				"LoginErrorView"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"Log",
+				"LoginErrorView"
+			],
+			[
+				"signup",
+				"signupcompletion"
+			],
+			[
+				"reme",
+				"remember_widget"
+			],
+			[
+				"pasw",
+				"password_field"
+			],
+			[
+				"password",
+				"password_widget"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"from",
+				"form-control"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"log",
+				"logout  (variable)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"thank",
+				"thank_you"
+			],
+			[
+				"Render",
+				"render_to_response  (function)"
+			],
+			[
+				"Ac",
+				"AjaxCapableProcessFormViewMixin  (class)"
+			],
+			[
+				"navbar",
+				"navbar-margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"singu",
+				"signup-border-radius"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"signup-form",
+				"signup-form-width"
+			],
+			[
+				"Pas",
+				"SetPasswordField  (class)"
+			],
+			[
+				"set",
+				"setup_user_email  (function)"
+			],
+			[
+				"sign",
+				"SignupView"
+			],
+			[
+				"_",
+				"_base_signup_form_class"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"menu",
+				"menu-height"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"tim",
+				"timeit"
+			],
+			[
+				"Coor",
+				"Coordinate"
+			],
+			[
+				"the",
+				"the_flying_circus"
+			],
+			[
+				"Many",
+				"ManyToOneRel  (class)"
+			],
+			[
+				"One",
+				"ManyToOneRel  (class)"
+			],
+			[
+				"c_",
+				"c_arm_girth"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"we",
+				"weapon"
+			],
+			[
+				"wea",
+				"weaponName"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"HttpRe",
+				"HttpResponse  (class)"
+			],
+			[
+				"loa",
+				"loads  (function)"
+			],
+			[
+				"barm",
+				"b_arm_length"
+			],
+			[
+				"b_arm",
+				"b_arm_length"
+			],
+			[
+				"b_",
+				"b_arm_girth"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"b",
+				"b_arm_girth"
+			],
+			[
+				"b_ar",
+				"b_arm_length"
+			],
+			[
+				"arm_length",
+				"arm_length"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"cl",
+				"click  (function)"
+			],
+			[
+				"parse",
+				"parseJSON  (function)"
+			],
+			[
+				"fro",
+				"for	for (…) {…}"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"bo",
+				"bodydata_resource"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"con",
+				"contrib  (module)"
+			],
+			[
+				"Us",
+				"UserProfileForm"
+			],
+			[
+				"Da",
+				"DateTimeField  (class)"
+			],
+			[
+				"Pytho",
+				"Python3"
+			],
+			[
+				"Date",
+				"DateTimeField"
+			],
+			[
+				"f",
+				"file	(builtin, class)"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"m",
+				"models  (module)"
+			],
+			[
+				"co",
+				"contrib  (module)"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"Em",
+				"EmailField  (class)"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"l",
+				"latest_poll_list"
+			],
+			[
+				"dat",
+				"datetime  (class)"
+			],
+			[
+				"tie",
+				"timedelta  (class)"
+			],
+			[
+				"ti",
+				"timedelta  (class)"
+			],
+			[
+				"datet",
+				"datetime"
+			],
+			[
+				"t",
+				"timedelta  (class)"
+			],
+			[
+				"time",
+				"timezone  (module)"
+			],
+			[
+				"De",
+				"DetailView  (class)"
+			],
+			[
+				"po",
+				"Poll"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect  (unknown)"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"loader",
+				"loader  (module)"
+			],
+			[
+				"c",
+				"contrib  (module)"
+			],
+			[
+				"poll",
+				"poll_id"
+			],
+			[
+				"pub_d",
+				"pub_date"
+			],
+			[
+				"was",
+				"was_published_recently"
+			],
+			[
+				"Model",
+				"Model"
+			],
+			[
+				"HTT",
+				"HttpResponse  (class)"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"md",
+				"md"
+			],
+			[
+				"D",
+				"DateTimeField  (class)"
+			],
+			[
+				"SignUp",
+				"signup"
+			],
+			[
+				"P",
+				"PYTHONPATH"
+			],
+			[
+				"s",
+				"smart_text(s, encoding, strings_only, errors)	(global, function)"
+			],
+			[
+				"e",
+				"encoding"
+			],
+			[
+				"u",
+				"utils"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"installe",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"borw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"python ",
+				"SublimeREPL: Python"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"reven",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"rex",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"repl ven",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"restar",
+				"SublimeREPL: Restart REPL"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"re",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo ",
+				"Package Control: Remove Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"diab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimlinter en",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"packer",
+				"Package Control: Install Package"
+			],
+			[
+				"installer",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"emmet ",
+				"Emmet: Update Image Size"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"package c	",
+				"Package Control: Install Package"
+			],
+			[
+				"packa	",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"cmd",
+			"from humansize import approximate_size",
+			"python",
+			"cmd",
+			"exit",
+			"cmd",
+			"python",
+			"python models.py",
+			"python $file",
+			"php -l",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Peter/Envs/tddworkshop/superlists"
+	],
+	"file_history":
+	[
+		"/C/Users/Peter/Envs/tddworkshop/superlists/superlists/wsgi.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/manage.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/superlists.sublime-project",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/functional_tests.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/lists/views.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/lists/templates/home.html",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/lists/tests.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/superlists/settings.py",
+		"/C/Users/Peter/Envs/tddworkshop/superlists/superlists/urls.py",
+		"/C/Users/Peter/Envs/tddworkshop/tddworkshop.sublime-project",
+		"/C/Users/Peter/Envs/tddworkshop/Lib/site-packages/selenium/webdriver/common/keys.py",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/settings.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/conf/project_template/project_name/settings.py",
+		"/C/Users/Peter/Envs/website/Include/setobject.h",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/templatetags/socialaccount_tags.py",
+		"/C/Users/Peter/Envs/website/src/static/static/bootstrap/docs/examples/starter-template/starter-template.css",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/views.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/account/views.py",
+		"/C/Users/Peter/Envs/website/src/templates/account/signup.html",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/forms.py",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/urls.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/utils/translation/__init__.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/account/forms.py",
+		"/C/Users/Peter/Envs/website/src/templates/flawlessfit/navbar_not_logged.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/__init__.py",
+		"/C/Users/Peter/Envs/website/src/templates/account/allauthaccountbase.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/locale/zh_CN/LC_MESSAGES/django.mo",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/providers/amazon/tests.py",
+		"/C/Users/Peter/Envs/website/src/templates/account/snippets/already_logged_in.html",
+		"/C/Users/Peter/Envs/website/Scripts/activate",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/__init__.py",
+		"/C/Users/Peter/Envs/website/flawlessfit.todo",
+		"/C/Users/Peter/Envs/website/src/static/static/img/fit-logo.xcf",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/flatpages/forms.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/comments/forms.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/auth/forms.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/admin/forms.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/forms/formsets.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/forms/forms.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/forms.py",
+		"/C/Users/Peter/Envs/website/Include/parsetok.h",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/sitemaps/templates/sitemap_index.xml",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/south/signals.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/allauthtemplates/account/signup.html",
+		"/C/Users/Peter/Envs/website/src/templates/account/_signup.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/allauthtemplates/socialaccount/signup.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/tests.py",
+		"/C/Users/Peter/Envs/website/src/templates/socialaccount/signup.html",
+		"/C/Users/Peter/Envs/website/src/tests/tests.py",
+		"/C/Users/Peter/Documents/Rainmeter/Skins/Wisp/Program Taskbar/TwelveProgram.ini",
+		"/C/Users/Peter/Envs/website/src/tests/__init__.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/account/tests.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/utils.py",
+		"/C/Users/Peter/Envs/website/src/templates/account/logout.html",
+		"/C/Users/Peter/Envs/website/src/templates/flawlessfit/navbar_logged.html",
+		"/C/Users/Peter/Envs/website/src/templates/flawlessfit/base.html",
+		"/C/Users/Peter/Envs/website/src/templates/socialaccount/base.html",
+		"/C/Users/Peter/Envs/fit/webroot/templates/profiles/signup.html",
+		"/C/Users/Peter/Envs/website/flawlessfit.sublime-project",
+		"/C/Users/Peter/Envs/website/Include/genobject.h",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/gis/templates/gis/google/google-map.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/providers/google/tests.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/django/contrib/gis/templates/gis/openlayers-osm.html",
+		"/C/Users/Peter/Envs/website/src/templates/base.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/app_settings.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/templates/account/signup.html",
+		"/C/Users/Peter/Envs/fit/webroot/fit/settings.py",
+		"/C/Users/Peter/Envs/fit/webroot/profiles/views.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/urls.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/providers/__init__.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/views.py",
+		"/C/Users/Peter/Envs/fit/webroot/profiles/urls.py",
+		"/C/Users/Peter/Envs/fit/webroot/fit/urls.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/templates/socialaccount/snippets/provider_list.html",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/providers/amazon/provider.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/distribute-0.6.34-py3.3.egg/pkg_resources.py",
+		"/C/Users/Peter/Envs/website/src/static/static/bootstrap/less/print.less",
+		"/C/Users/Peter/Envs/website/Include/marshal.h",
+		"/C/Users/Peter/Envs/website/Include/memoryobject.h",
+		"/C/Users/Peter/Envs/website/src/static/static/bootstrap/less/media.less",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/providers/twitter/migrations/0004_auto__del_twitteraccount__del_twitterapp.py",
+		"/C/Users/Peter/Envs/website/Lib/site-packages/allauth/socialaccount/migrations/0003_auto__add_unique_socialaccount_uid_provider.py",
+		"/C/Users/Peter/Envs/website/src/templates/flawlessfit/index.html",
+		"/C/Users/Peter/Envs/website/src/db.sqlite3",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Peter/Envs/website/flawlessfit.sublime-workspace",
+		"/C/Users/Peter/Envs/website/src/flawlessfit/wsgi.py",
+		"/C/Users/Peter/Envs/website/src/manage.py",
+		"/C/Users/Peter/Envs/website/sublimefit/manage.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/urls.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/models.py",
+		"/C/Users/Peter/Envs/fit/fit.sublime-project",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Peter/Envs/fit/webroot/profiles/admin.py",
+		"/C/Users/Peter/Envs/fit/webroot/fit/views.py",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Peter/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Peter/Envs/fit/lib/site-packages/allauth/account/views.py",
+		"/C/Users/Peter/Envs/fit/webroot/profiles/helpers.py",
+		"/C/Users/Peter/Envs/website/Scripts/django-admin.py",
+		"/C/Users/Peter/Envs/fit/email_setup.py",
+		"/C/Users/Peter/Envs/fit/fit.todo",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/urls.py",
+		"/C/Python33/lib/site-packages/allauth/socialaccount/views.py",
+		"/C/Python33/lib/site-packages/allauth/socialaccount/helpers.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/views.py",
+		"/C/Python33/lib/site-packages/django/dispatch/dispatcher.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/signals.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/utils.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/templates/account/signup.html",
+		"/C/Users/Peter/Documents/Rainmeter/Skins/Wisp/Config.ini",
+		"/C/Users/Peter/Documents/Rainmeter/Skins/Wisp/SkinVariables.inc",
+		"/C/Python33/lib/site-packages/allauth/account/views.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/adapter.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/account/templatetags/account.py",
+		"/C/Users/Peter/Envs/fit/webroot/profiles/forms.py",
+		"/C/Python33/lib/site-packages/django/conf/__init__.py",
+		"/C/Python33/lib/site-packages/allauth/account/adapter.py",
+		"/C/Python33/lib/site-packages/allauth/account/utils.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/views.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/helpers.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/adapter.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/app_settings.py",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/templates/socialaccount/signup.html",
+		"/C/Users/Peter/Envs/fit/Lib/site-packages/allauth/socialaccount/forms.py",
+		"/C/Users/Peter/Envs/fit/webroot/templates/profiles/singupcompletion.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"src",
+			"website",
+			"signup",
+			"password",
+			"=\"/\">",
+			"media",
+			"profiles_signup",
+			"fit",
+			"webroot",
+			"fit",
+			"sublimefit",
+			"views.",
+			"SocialaccountSignupCompletionForm",
+			"send",
+			"signup",
+			"#prog5path",
+			"prog5",
+			"signup",
+			"as_view",
+			"label",
+			"password",
+			"TextInput",
+			"widget",
+			"passwordInput",
+			"login_widget",
+			"password",
+			"View",
+			"login",
+			".dropdown-menu",
+			"form-control",
+			"inverse",
+			"account/logout",
+			"> a",
+			"navbar-height",
+			"navbar-heigh",
+			"navbar",
+			"get_brand",
+			"get_brands",
+			"get_brand",
+			"redirect",
+			"login_url",
+			";\n",
+			"navbar",
+			"2",
+			"input[type=\"text\"]",
+			"label",
+			"RedirectAuthenticatedUserMixin",
+			"input-group-lg",
+			"theme",
+			"div",
+			"login",
+			"body",
+			";",
+			"perfect",
+			"girth",
+			"print",
+			"length",
+			"girth",
+			"html",
+			"text",
+			"val",
+			"console.log(",
+			"models.",
+			"photo",
+			"perfectfit/",
+			"src",
+			"font-family",
+			"font",
+			"max_length",
+			"CharField",
+			"Question",
+			"question",
+			"Question",
+			"perfectfit",
+			"ad",
+			"published",
+			"md",
+			"import",
+			"id",
+			"price",
+			"444444",
+			"333333",
+			"4",
+			";\n",
+			"VS ATGM (Logistik)",
+			"right",
+			"0px",
+			"50%",
+			";",
+			"left",
+			"#626262",
+			" #",
+			"x[2]",
+			"2",
+			"1",
+			"h1",
+			"person",
+			"o",
+			"view_id",
+			"view_settings",
+			"settings_object",
+			"settings(",
+			"base_name",
+			"ts_settings_filename",
+			"ts_settings",
+			"match_trailing_spaces(view)",
+			"persist_settings(",
+			"startup_queue",
+			"startup_queue.append(view)",
+			"match_trailing_spaces(view)",
+			"current_highlighting_scope",
+			"ts_settings.set",
+			"toggle_highlighting",
+			"current_highlighting_scope",
+			"ts_settings_filename",
+			"load_settings",
+			"ts_settings_filename",
+			"current_highlighting_scope",
+			"trailing_spaces_highlight_color",
+			"DEFAULT_COLOR_SCOPE_NAME",
+			"toggle_highlighting",
+			"p",
+			"start",
+			"php",
+			"scope",
+			"cmd",
+			"command",
+			"source"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin",
+			"Nicht gedeckte Abwicklungskosten",
+			"Vertriebsaussenstelle",
+			"Vertriebsmarketing",
+			"Auftragsbezogene Nebenkosten",
+			"Entwicklung Verfahrenstechnik",
+			"Elektrotechnik",
+			"VS Regional (Sonderkonstruktion)",
+			"VS SKSR (Sonderkonstruktion)",
+			"VS ATGM (Sonderkonstruktion)",
+			"VS Regional / Akquise (Projektabwicklung)",
+			"VS ATGM IT (Projektabwicklung)",
+			"VS ATGM DE (Projektabwicklung)",
+			"VS CAIN (Projektabwicklung)",
+			"VS ATGM (Projektabwicklung)",
+			"VS Regional / Akquise (Logistik)",
+			"VS SKSR (Logistik)",
+			"VS CAIN (Logistik)",
+			"VS CAIN (Logistik)\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/MonokaiGray (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 172.0
+	},
+	"output.exec":
+	{
+		"height": 674.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 182.0
+	},
+	"project": "superlists.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"settings.py",
+				"src\\flawlessfit\\settings.py"
+			],
+			[
+				"allauth/forms",
+				"Lib\\site-packages\\allauth\\account\\forms.py"
+			],
+			[
+				"providers",
+				"Lib\\site-packages\\allauth\\socialaccount\\providers\\__init__.py"
+			],
+			[
+				"social",
+				"Lib\\site-packages\\allauth\\socialaccount\\templatetags\\socialaccount.py"
+			],
+			[
+				"signup",
+				"webroot\\templates\\profiles\\signup.html"
+			],
+			[
+				"singup",
+				"webroot\\templates\\profiles\\signup.html"
+			],
+			[
+				"login.html",
+				"Lib\\site-packages\\allauth\\templates\\account\\login.html"
+			],
+			[
+				"var",
+				"static\\static\\bootstrap\\less\\variables.less"
+			],
+			[
+				"nav",
+				"static\\static\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"test",
+				"build\\lxml\\test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Peter\\Envs\\website\\flawlessfit.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
