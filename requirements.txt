@@ -1,3 +1,1 @@
 Django==1.7.1
-distribute==0.6.34
-selenium==2.44.0
